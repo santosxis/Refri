@@ -2,7 +2,7 @@
 
 Este é um projeto de uma **landing page de latinhas de refrigerante com animação**, desenvolvida com **HTML** e **CSS** 
 
-A proposta é apresentar um produto de forma moderna e com interatividade na troca de cores.
+A proposta é apresentar um produto de forma moderna e com interatividade.
 
 ## 🔥 Resultado do Projeto
 
